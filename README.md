@@ -1,2 +1,2 @@
 # discord-tutorial
-#Just basic discord.py for make your bot can come to thir room and it's can show online status
+# Just basic discord.py for teaching about how discord dev api and client do by using Python and Discord.py in my classes.
